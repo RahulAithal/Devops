@@ -8,7 +8,7 @@
 class Question4
 {
 	public static void test(int n) {
-		char a ='A';
+		char a ='a';
 		for(int i=n;i>=1;i--)
 		{
 			for(int j=1;j<=i;j++)
